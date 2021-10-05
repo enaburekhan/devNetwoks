@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://Eric123:Eric123@devnetwork.q7qx7.mongodb.net/Eric123",
-  "jwtSecret": "mysecrettoken"   
+  "jwtSecret": "mysecrettoken",
+  "gihubClientId": "a2bba44916eea5f1017a",
+  "githubToken": "4cc3d3c16e0d015a5a6d660d0bca26c3aec254b6"   
 }
